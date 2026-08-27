@@ -6,12 +6,12 @@
 > 
 > **480 本精选好书 · 22 大知识领域 · 4.61 GB 高清 PDF**
 
-[![Books](https://img.shields.io/badge/📚_书籍-480_本-8B5CF6?style=for-the-badge&logo=bookstack)](.)
-[![Categories](https://img.shields.io/badge/🗂️_分类-22类-3B82F6?style=for-the-badge&logo=readthedocs)](.)
-[![Size](https://img.shields.io/badge/💾_容量-4.61GB-10B981?style=for-the-badge&logo=hdd)](.)
-[![Format](https://img.shields.io/badge/📄_格式-PDF-F59E0B?style=for-the-badge&logo=adobe)](.)
-[![Updated](https://img.shields.io/badge/🔄_更新-2026年08月27-EC4899?style=for-the-badge&logo=githubactions)](.)
-[![License](https://img.shields.io/badge/📖_用途-个人学习研究-6B7280?style=for-the-badge&logo=readme)](.)
+[![Books](https://img.shields.io/badge/书籍-480_本-8B5CF6?style=for-the-badge&logo=bookstack)](.)
+[![Categories](https://img.shields.io/badge/分类-22类-3B82F6?style=for-the-badge&logo=readthedocs)](.)
+[![Size](https://img.shields.io/badge/容量-4.61GB-10B981?style=for-the-badge&logo=hdd)](.)
+[![Format](https://img.shields.io/badge/格式-PDF-F59E0B?style=for-the-badge&logo=adobe)](.)
+[![Updated](https://img.shields.io/badge/更新-2026年08月27-EC4899?style=for-the-badge&logo=githubactions)](.)
+[![License](https://img.shields.io/badge/用途-个人学习研究-6B7280?style=for-the-badge&logo=readme)](.)
 
 </div>
 
