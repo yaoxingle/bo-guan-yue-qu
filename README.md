@@ -5,6 +5,8 @@
 > ### *"博观而约取，厚积而薄发。" —— 苏轼*
 > 
 > **480 本精选好书 · 22 大知识领域 · 4.61 GB 高清 PDF**
+> 
+> 一个人的纸上书房，一座持续生长的知识库。以 22 类为纲、480 本为目——从投资理财到人工智能，从历史人文到专业技艺，博观以广其识，约取以精其用；待积之日久，自当厚积而薄发。
 
 [![Books](https://img.shields.io/badge/书籍-480_本-8B5CF6?style=for-the-badge&logo=bookstack)](.)
 [![Categories](https://img.shields.io/badge/分类-22类-3B82F6?style=for-the-badge&logo=readthedocs)](.)
